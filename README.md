@@ -12,26 +12,16 @@ Exponer una API REST con mensajería JSON que:
 - Ejecución en contenedores Docker
 
 ## Tecnologías utilizadas
-- **.NET 10** (Minimal API)
+- **.NET 10** 
 - **System.Text.Json** para serialización/deserialización
 - **XDocument** (LINQ to XML) para transformación y parsing de XML SOAP
 - **HttpClient** para llamada al servicio SOAP
 - **Docker** para contenedorización
 - **Git** para versionamiento
 
-## Estructura del proyecto
-.
-├── Program.cs                  # Punto de entrada y definición de endpoints
-├── Models/
-│   ├── EnviarPedidoRequest.cs
-│   └── EnviarPedidoResponse.cs
-├── Services/
-│   └── PedidoSoapService.cs    # Lógica de transformación y llamada SOAP
-├── Dockerfile                  # Definición del contenedor
-├── README.md
-└── PRUEBA TECNICA SETI.csproj  # (o el nombre real de tu csproj)
+
 text## Requisitos
-- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
+- [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/10.0)
 - Docker (Docker Desktop recomendado en Windows/macOS)
 
 ## Ejecución local (sin Docker)
@@ -43,9 +33,10 @@ dotnet restore
 # Compilar y ejecutar
 dotnet run
 La API estará disponible en:
-http://localhost:5000 (o el puerto que muestre la consola)
+http://localhost:7111 (o el puerto que muestre la consola)
 Probar endpoint principal (POST)
-Bashcurl -X POST http://localhost:5000/api/enviar-pedido \
+
+POST http://localhost:5000/api/enviar-pedido \
 -H "Content-Type: application/json" \
 -d '{
   "enviarPedido": {
@@ -57,15 +48,18 @@ Bashcurl -X POST http://localhost:5000/api/enviar-pedido \
     "direccion": "CR 72B 45 12 APT 301"
   }
 }'
+
 Ejecución con Docker
 Construir la imagen
-Bashdocker build -t prueba-tecnica-seti:latest .
+docker build -t prueba-tecnica-seti:latest .
 Ejecutar el contenedor
-Bashdocker run -d -p 8080:8080 --name prueba-seti prueba-tecnica-seti:latest
+docker run -d -p 8080:8080 --name prueba-seti prueba-tecnica-seti:latest
+
 La API estará disponible en:
 http://localhost:8080
-Probar endpoint principal (POST) desde el contenedor
-Bashcurl -X POST http://localhost:8080/api/enviar-pedido \
+
+Probar endpoint principal (POST) desde postman
+POST http://localhost:8080/api/enviar-pedido \
 -H "Content-Type: application/json" \
 -d '{
   "enviarPedido": {
@@ -77,7 +71,7 @@ Bashcurl -X POST http://localhost:8080/api/enviar-pedido \
     "direccion": "CR 72B 45 12 APT 301"
   }
 }'
-Respuesta esperada (cuando el mock responda con el XML correcto):
+Respuesta esperada:
 JSON{
   "enviarPedidoRespuesta": {
     "codigoEnvio": "80375472",
