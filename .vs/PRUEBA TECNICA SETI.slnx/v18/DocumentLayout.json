@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\felip\\source\\repos\\PRUEBA TECNICA SETI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44133E45-55B1-1DAD-B266-4CAEFBD41F36}|PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI.csproj|c:\\users\\felip\\source\\repos\\prueba tecnica seti\\prueba tecnica seti\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{44133E45-55B1-1DAD-B266-4CAEFBD41F36}|PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI.csproj|solutionrelative:prueba tecnica seti\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44133E45-55B1-1DAD-B266-4CAEFBD41F36}|PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI.csproj|c:\\users\\felip\\source\\repos\\prueba tecnica seti\\prueba tecnica seti\\services\\pedidosoapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44133E45-55B1-1DAD-B266-4CAEFBD41F36}|PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI.csproj|solutionrelative:prueba tecnica seti\\services\\pedidosoapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44133E45-55B1-1DAD-B266-4CAEFBD41F36}|PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI.csproj|c:\\users\\felip\\source\\repos\\prueba tecnica seti\\prueba tecnica seti\\pedidorequestwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44133E45-55B1-1DAD-B266-4CAEFBD41F36}|PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI.csproj|solutionrelative:prueba tecnica seti\\pedidorequestwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44133E45-55B1-1DAD-B266-4CAEFBD41F36}|PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI.csproj|c:\\users\\felip\\source\\repos\\prueba tecnica seti\\prueba tecnica seti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44133E45-55B1-1DAD-B266-4CAEFBD41F36}|PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI.csproj|solutionrelative:prueba tecnica seti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44133E45-55B1-1DAD-B266-4CAEFBD41F36}|PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI.csproj|c:\\users\\felip\\source\\repos\\prueba tecnica seti\\prueba tecnica seti\\models\\enviarpedidoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44133E45-55B1-1DAD-B266-4CAEFBD41F36}|PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI.csproj|solutionrelative:prueba tecnica seti\\models\\enviarpedidoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44133E45-55B1-1DAD-B266-4CAEFBD41F36}|PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI.csproj|c:\\users\\felip\\source\\repos\\prueba tecnica seti\\prueba tecnica seti\\models\\enviarpedidorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44133E45-55B1-1DAD-B266-4CAEFBD41F36}|PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI.csproj|solutionrelative:prueba tecnica seti\\models\\enviarpedidorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44133E45-55B1-1DAD-B266-4CAEFBD41F36}|PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI.csproj|c:\\users\\felip\\source\\repos\\prueba tecnica seti\\prueba tecnica seti\\prueba tecnica seti.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44133E45-55B1-1DAD-B266-4CAEFBD41F36}|PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI.csproj|solutionrelative:prueba tecnica seti\\prueba tecnica seti.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\felip\\source\\repos\\PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI\\Dockerfile",
+              "RelativeDocumentMoniker": "PRUEBA TECNICA SETI\\Dockerfile",
+              "ToolTip": "C:\\Users\\felip\\source\\repos\\PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI\\Dockerfile",
+              "RelativeToolTip": "PRUEBA TECNICA SETI\\Dockerfile",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-26T20:33:16.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PedidoRequestWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\source\\repos\\PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI\\PedidoRequestWrapper.cs",
+              "RelativeDocumentMoniker": "PRUEBA TECNICA SETI\\PedidoRequestWrapper.cs",
+              "ToolTip": "C:\\Users\\felip\\source\\repos\\PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI\\PedidoRequestWrapper.cs",
+              "RelativeToolTip": "PRUEBA TECNICA SETI\\PedidoRequestWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T20:12:15.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\source\\repos\\PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI\\Program.cs",
+              "RelativeDocumentMoniker": "PRUEBA TECNICA SETI\\Program.cs",
+              "ToolTip": "C:\\Users\\felip\\source\\repos\\PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI\\Program.cs",
+              "RelativeToolTip": "PRUEBA TECNICA SETI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:58:45.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidoSoapService.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\source\\repos\\PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI\\Services\\PedidoSoapService.cs",
+              "RelativeDocumentMoniker": "PRUEBA TECNICA SETI\\Services\\PedidoSoapService.cs",
+              "ToolTip": "C:\\Users\\felip\\source\\repos\\PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI\\Services\\PedidoSoapService.cs",
+              "RelativeToolTip": "PRUEBA TECNICA SETI\\Services\\PedidoSoapService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:58:02.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnviarPedidoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\source\\repos\\PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI\\Models\\EnviarPedidoResponse.cs",
+              "RelativeDocumentMoniker": "PRUEBA TECNICA SETI\\Models\\EnviarPedidoResponse.cs",
+              "ToolTip": "C:\\Users\\felip\\source\\repos\\PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI\\Models\\EnviarPedidoResponse.cs",
+              "RelativeToolTip": "PRUEBA TECNICA SETI\\Models\\EnviarPedidoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:57:50.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnviarPedidoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\source\\repos\\PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI\\Models\\EnviarPedidoRequest.cs",
+              "RelativeDocumentMoniker": "PRUEBA TECNICA SETI\\Models\\EnviarPedidoRequest.cs",
+              "ToolTip": "C:\\Users\\felip\\source\\repos\\PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI\\Models\\EnviarPedidoRequest.cs",
+              "RelativeToolTip": "PRUEBA TECNICA SETI\\Models\\EnviarPedidoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:57:38.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PRUEBA TECNICA SETI.csproj",
+              "DocumentMoniker": "C:\\Users\\felip\\source\\repos\\PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI.csproj",
+              "RelativeDocumentMoniker": "PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI.csproj",
+              "ToolTip": "C:\\Users\\felip\\source\\repos\\PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI.csproj",
+              "RelativeToolTip": "PRUEBA TECNICA SETI\\PRUEBA TECNICA SETI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-26T19:56:47.334Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
