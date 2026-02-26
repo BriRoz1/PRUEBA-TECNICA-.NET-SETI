@@ -12,7 +12,7 @@ Exponer una API REST con mensajería JSON que:
 - Ejecución en contenedores Docker
 
 ## Tecnologías utilizadas
-- **.NET 8** (Minimal API)
+- **.NET 10** (Minimal API)
 - **System.Text.Json** para serialización/deserialización
 - **XDocument** (LINQ to XML) para transformación y parsing de XML SOAP
 - **HttpClient** para llamada al servicio SOAP
